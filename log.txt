@@ -1,6 +1,8 @@
-73014a8 (HEAD -> main) Task 1.1
+7743ad2 removed play parameter from helper method getAmount()
+7065447 Task 1.2, changed contents of log.txt
+73014a8 Task 1.1
 14cfba2 Task 1.1
-ff5004e (origin/main, origin/HEAD) adding shortcut keys for Inline Variable (Re: Piazza question)
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
