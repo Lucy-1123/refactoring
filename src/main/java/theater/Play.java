@@ -1,9 +1,14 @@
 package theater;
 
+/**
+ * Plays.
+ *
+ * @null value must not be null
+ */
 public class Play {
 
-    public String name;
-    public String type;
+    private String name;
+    private String type;
 
     public Play(String name, String type) {
         this.name = name;
