@@ -1,3 +1,4 @@
+b45915d Task 2.1
 7743ad2 removed play parameter from helper method getAmount()
 7065447 Task 1.2, changed contents of log.txt
 73014a8 Task 1.1
